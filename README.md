@@ -6,8 +6,9 @@
 Content: 
 
 * Preprocessing of the CDP (<a href="https://www.cdp.net/en">Climate Disclosure Panel</a>) GHG datasets (focused on 2016-2017)
-* NLP (Natural Language Processing): Analysis of reasons for decreases/increases in emissions reported by cities
+* NLP (i.e. Natural Language Processing): Analysis of reasons for decreases/increases in emissions reported by cities
 * Multiple Linear Regression: modeling the total emissions of cities
-* Classification models: predicting the decrease or increase in emissions of cities 
+* Classification models (i.e. logistic regression, linear discriminant analysis, K-nearest neighbour,
+gaussian naive bayes, gradient boosting, decision tree, random forest, and support vector machine clasifier): predicting the decrease or increase in emissions of cities 
 
 
