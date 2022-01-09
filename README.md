@@ -9,6 +9,7 @@ Content:
 * NLP (i.e. Natural Language Processing): Analysis of reasons for decreases/increases in emissions reported by cities
 * Multiple Linear Regression: modeling the total emissions of cities
 * Classification models (i.e. logistic regression, linear discriminant analysis, K-nearest neighbour,
-gaussian naive bayes, gradient boosting, decision tree, random forest, and support vector machine clasifier): predicting the decrease or increase in emissions of cities 
+gaussian naive bayes, gradient boosting, decision tree, random forest, and support vector machine clasifier): predicting the decrease or increase in emissions of cities
+* GUI: vizualisation of the NLP results (barplot and bigrams network plot) - freely available at: https://mda-somalia.herokuapp.com/
 
 
