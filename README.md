@@ -12,6 +12,6 @@ Content:
 gaussian naive bayes, gradient boosting, decision tree, random forest, and support vector machine clasifier): predicting the decrease or increase in emissions of cities
 * GUI: vizualisation of the NLP results (barplot and bigrams network plot) - freely available at: https://mda-somalia.herokuapp.com/
 
-NB: be gentle with the GUI, he's slow. 
+NB: be gentle with the GUI, he's not optimized. We recommend you to take the day off if you want to dive in the app. 
 
 
