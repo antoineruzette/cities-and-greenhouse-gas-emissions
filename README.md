@@ -1,6 +1,7 @@
 # Investigation of the city-wide greenhouse gas emissions
 
 <i> Modern Data Analytics, MSc in Bioinformatics, 2021 </i> 
+Antoine Ruzette, Lore Van Santvliet, Jonas Haesevoets, Darina Abaffyová, Matijs Houben, Xinran Song
 
 
 Content: 
