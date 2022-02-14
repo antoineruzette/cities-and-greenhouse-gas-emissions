@@ -14,6 +14,6 @@ gaussian naive bayes, gradient boosting, decision tree, random forest, and suppo
 
 
 
-NB: be gentle with the GUI, he's not optimized. You might have to take the day off to dive in the app. 
+NB: be gentle with the GUI, it is an online app hosted on a website. 
 
 
